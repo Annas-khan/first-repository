@@ -1,4 +1,4 @@
 # first-repository
 this is my first repository 
 <br>
-Author - Annas khan 
+Author - Annas khan Takeishi
